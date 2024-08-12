@@ -1,0 +1,19 @@
+# Fichiers de configuration spécifiques à l'environnement
+.env
+
+# Fichiers compilés
+*.pyc
+*.pyo
+__pycache__/
+
+# Dossiers de l'IDE
+.vscode/
+.idea/
+
+# Fichiers de log
+*.log
+
+# Dossiers de dépendances
+venv/
+env/
+node_modules/
